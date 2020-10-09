@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73091553-cde5-46f7-9117-2e60255f6b97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/enum/1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum/2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enum/3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/3.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/4.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function/5.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602233926934</updated>
-      <workItem from="1602233927994" duration="4076000" />
+      <workItem from="1602233927994" duration="7022000" />
     </task>
     <servers />
   </component>
@@ -64,6 +66,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/enum/2.js" />
         <option value="$PROJECT_DIR$/src/enum/3.js" />
+        <option value="$PROJECT_DIR$/src/function/2.js" />
+        <option value="$PROJECT_DIR$/src/function/3.js" />
+        <option value="$PROJECT_DIR$/src/function/5.js" />
       </list>
     </option>
   </component>
