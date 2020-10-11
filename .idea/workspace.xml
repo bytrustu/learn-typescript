@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73091553-cde5-46f7-9117-2e60255f6b97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/todo_list/src/Input.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todo_list/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/todo_list/src/util.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="TypeScript File" />
         <option value="HTML File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -54,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602233926934</updated>
       <workItem from="1602233927994" duration="14603000" />
-      <workItem from="1602426418695" duration="2962000" />
+      <workItem from="1602426418695" duration="3274000" />
     </task>
     <servers />
   </component>
