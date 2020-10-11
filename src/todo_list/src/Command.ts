@@ -2,13 +2,15 @@ import {Action, ActionDeleteTodo, ActionNewTodo, AppState, Priority, PRIORITY_NA
 import {waitForInput} from "./Input";
 import {constants} from "os";
 import {getIsValidEnumValue} from "./util";
+import chalk from "chalk";
+
 
 export abstract class Command {
     constructor(public key: string, private desc: string) {
     }
 
     toString() {
-        return `${this.key}: ${this.desc}`;
+        return chalk`{blue.bold ${this.key}}: ${this.desc}`;
     }
 
     abstract async run(state: AppState): Promise<void | Action>;
@@ -16,7 +18,7 @@ export abstract class Command {
 
 export class CommandPrintTodos extends Command {
     constructor() {
-        super('p', '모든 할 일 출력하기');
+        super('p', chalk`모든 할 일 {red.bold 출력}하기`);
     }
     async run(state: AppState): Promise<void> {
         for (const todo of state.todos) {
@@ -29,7 +31,7 @@ export class CommandPrintTodos extends Command {
 
 export class CommandNewTodo extends Command {
     constructor() {
-        super('n', '할 일 추가하기');
+        super('n', chalk`할 일 {red.bold 추가}하기`);
     }
     async run(): Promise<void | ActionNewTodo> {
         const title = await waitForInput('제 : ');
@@ -51,7 +53,7 @@ export class CommandNewTodo extends Command {
 
 export class CommandDeleteTodo extends Command {
     constructor() {
-        super('d', '할 일 제하기');
+        super('d', chalk`할 일 {red.bold 제거}하기`);
     }
     async run(state: AppState): Promise<void | ActionDeleteTodo> {
         for ( const todo of state.todos) {
