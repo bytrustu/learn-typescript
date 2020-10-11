@@ -2,23 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73091553-cde5-46f7-9117-2e60255f6b97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generic/1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/generic/4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface/1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface/2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface/3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface/4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface/5.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface/6.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interface/7.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapped/1.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapped/2.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapped/3.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapped/4.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapped/5.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mapped/6.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/conditional/1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeguard/1.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeguard/2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/typeguard/3.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,9 +33,9 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/basic-type" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -68,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602233926934</updated>
-      <workItem from="1602233927994" duration="13595000" />
+      <workItem from="1602233927994" duration="14603000" />
+      <workItem from="1602426418695" duration="1121000" />
     </task>
     <servers />
   </component>
