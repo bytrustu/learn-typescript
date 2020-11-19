@@ -3,4 +3,4 @@ export default function sum(a: number, b: number): number {
 }
 
 const result = sum(10, 20);
-result.
+console.log(result)

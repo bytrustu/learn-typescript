@@ -2,12 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73091553-cde5-46f7-9117-2e60255f6b97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/todo_list/src/Command.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/todo_list/src/Todo.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/todo_list/src/type.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/1_todo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/1_todo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/src/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/step6/class.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/step6/enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/step7/generic.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_list/src/Input.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/src/Input.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_list/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/src/1_todo/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/1_todo/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/src/1_todo/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/1_todo/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/src/1_todo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/1_todo/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/src/step1/sum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step1/sum.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/src/step2/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step2/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/src/step3/type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step3/type.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inflearn/src/step5/operator.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step5/operator.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todo_list/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todo_list/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/todo_list/src/Todo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/src/Todo.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="tsconfig.json" />
+        <option value="JavaScript File" />
         <option value="TypeScript File" />
       </list>
     </option>
@@ -26,18 +42,43 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="ProjectId" id="1idOJ23IHUtZSsAezZiFrDhS9eN" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -59,7 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602233926934</updated>
       <workItem from="1602233927994" duration="14603000" />
-      <workItem from="1602426418695" duration="4376000" />
+      <workItem from="1602426418695" duration="8321000" />
+      <workItem from="1605777281283" duration="23142000" />
     </task>
     <servers />
   </component>
@@ -74,13 +116,40 @@
         <option value="$PROJECT_DIR$/src/function/5.js" />
         <option value="$PROJECT_DIR$/src/interface/3.js" />
         <option value="$PROJECT_DIR$/src/type/1.js" />
+        <option value="$PROJECT_DIR$/inflearn/src/step1/sum.js" />
+        <option value="$PROJECT_DIR$/inflearn/src/step4/interface.js" />
+        <option value="$PROJECT_DIR$/inflearn/src/step6/enum.js" />
+        <option value="$PROJECT_DIR$/inflearn/src/step7/generic.js" />
       </list>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2216" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605779669928">
+      <screen x="1792" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2216" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605779669928" />
+    <state x="2565" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1605794136030">
+      <screen x="1792" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2565" y="272" key="#com.intellij.ide.util.MemberChooser/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605794136030" />
+    <state x="2540" y="310" key="FileChooserDialogImpl" timestamp="1605785657932">
+      <screen x="1792" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2540" y="310" key="FileChooserDialogImpl/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605785657932" />
+    <state x="2261" y="187" key="SettingsEditor" timestamp="1605785764493">
+      <screen x="1792" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2261" y="187" key="SettingsEditor/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605785764493" />
     <state x="561" y="266" width="670" height="675" key="run.anything.popup" timestamp="1602240011825">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
     <state x="561" y="266" width="670" height="675" key="run.anything.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1602240011825" />
+    <state x="2417" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1605782033144">
+      <screen x="1792" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2417" y="259" width="670" height="676" key="search.everywhere.popup/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605782033144" />
   </component>
 </project>

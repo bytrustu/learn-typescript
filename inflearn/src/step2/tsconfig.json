@@ -1,10 +1,13 @@
 {
-    "compilerOptions": {
-        "module": "commonjs",
-        "target": "es5",
-        "sourceMap": true
-    },
-    "exclude": [
-        "node_modules"
-    ]
+  "compilerOptions": {
+    "allowJs": true, // 프로젝트 내 JS 코드 사용 여부
+    "checkJs": true, // @ts-check
+    "noImplicitAny": true, // 모든 타입에 적어도 any 작성 해야함
+    "module": "commonjs",
+    "target": "es5",
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
 }

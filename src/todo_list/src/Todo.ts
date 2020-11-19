@@ -5,7 +5,7 @@ export default class Todo {
     static nextId: number = 1;
     constructor(
         private title: string,
-        private priority: Priority,
+        private priority:  Priority,
         public id: number = Todo.nextId,
     ) {
         Todo.nextId++;
