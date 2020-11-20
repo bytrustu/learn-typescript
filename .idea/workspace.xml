@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73091553-cde5-46f7-9117-2e60255f6b97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inflearn/src/1_todo/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/1_todo/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/src/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/2_todo/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/step6/class.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/step6/enum.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inflearn/src/step7/generic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/step10/type-compatibility.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/step8/type-inference.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inflearn/src/step9/type-assertions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/src/1_todo/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/1_todo/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/src/1_todo/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/1_todo/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/src/1_todo/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/1_todo/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/src/step1/sum.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step1/sum.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/src/step2/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step2/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/src/step3/type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step3/type.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inflearn/src/step5/operator.ts" beforeDir="false" afterPath="$PROJECT_DIR$/inflearn/src/step5/operator.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_list/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_list/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todo_list/src/Todo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/todo_list/src/Todo.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +84,8 @@
       <updated>1602233926934</updated>
       <workItem from="1602233927994" duration="14603000" />
       <workItem from="1602426418695" duration="8321000" />
-      <workItem from="1605777281283" duration="23142000" />
+      <workItem from="1605777281283" duration="23286000" />
+      <workItem from="1605865614034" duration="9842000" />
     </task>
     <servers />
   </component>
@@ -127,13 +111,15 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2216" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605779669928">
+    <state x="2216" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605882981311">
       <screen x="1792" y="25" width="1920" height="1055" />
     </state>
+    <state x="2216" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.25.1920.1055/1792.25.1920.1055/0.25.1792.1095@1792.25.1920.1055" timestamp="1605882981311" />
     <state x="2216" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605779669928" />
-    <state x="2565" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1605794136030">
+    <state x="2565" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1605877849156">
       <screen x="1792" y="25" width="1920" height="1055" />
     </state>
+    <state x="2565" y="272" key="#com.intellij.ide.util.MemberChooser/-1920.25.1920.1055/1792.25.1920.1055/0.25.1792.1095@1792.25.1920.1055" timestamp="1605877849156" />
     <state x="2565" y="272" key="#com.intellij.ide.util.MemberChooser/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605794136030" />
     <state x="2540" y="310" key="FileChooserDialogImpl" timestamp="1605785657932">
       <screen x="1792" y="25" width="1920" height="1055" />
@@ -143,6 +129,10 @@
       <screen x="1792" y="25" width="1920" height="1055" />
     </state>
     <state x="2261" y="187" key="SettingsEditor/1792.25.1920.1055/0.25.1792.1095/-1920.25.1920.1055@1792.25.1920.1055" timestamp="1605785764493" />
+    <state x="2557" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605878349065">
+      <screen x="1792" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2557" y="470" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.25.1920.1055/1792.25.1920.1055/0.25.1792.1095@1792.25.1920.1055" timestamp="1605878349065" />
     <state x="561" y="266" width="670" height="675" key="run.anything.popup" timestamp="1602240011825">
       <screen x="0" y="23" width="1792" height="1097" />
     </state>
